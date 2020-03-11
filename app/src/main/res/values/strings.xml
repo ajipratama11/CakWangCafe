@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pojok Kopi</string>
+    <string name="nama_menu">Nama Menu</string>
+    <string name="harga">Harga</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="keranjang">Keranjang</string>
+    <string name="subtotal">subtotal</string>
+    <string-array name="status">
+        <item>Proses</item>
+        <item>Selesai</item>
+    </string-array>
+</resources>
